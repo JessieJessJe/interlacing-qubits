@@ -1,0 +1,73 @@
+body{
+   background-color: black;
+   
+   color:white;
+
+    /* font-family: verdigris-mvb-pro-big,serif;
+    font-weight: 400;
+    font-style: normal; */
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50;
+    /* font-style: italic;
+    */
+}
+
+h2{
+    font-size: 1.3rem;
+    margin: 00.2rem;
+    font-weight: 40;
+    text-align: left;
+    /* font-style: italic; */
+    
+}
+
+p{
+    margin: 0.2rem;
+}
+
+/* .canvas{
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+#header{
+    padding: 1rem;
+    font-family: lemon-sans-next-condensed,sans-serif;
+    font-weight: 100;
+    font-style: normal;
+
+    text-align: center;
+    font-size: 1rem;
+
+    border-bottom: 0.1rem solid whitesmoke;
+   
+}
+#container{
+    text-align: center;
+    margin: 0 auto 0;
+    
+}
+
+#numbers{
+    margin: 0;
+    padding: 1.2rem 1.2rem  0 1.2rem  ;
+    height: 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.ll{
+    font-size: 3rem;
+    font-weight: 500;
+    margin: 0;
+}
+
+#rightText{
+    text-align: right;
+}
+
